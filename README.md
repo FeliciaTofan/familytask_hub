@@ -219,7 +219,7 @@ export SECRET_KEY=your_secret_key
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 👥 Authors
+## 👥 Author
 
 - [Felicia Tofan](https://www.linkedin.com/in/felicia-tofan-b7175683/)
 
